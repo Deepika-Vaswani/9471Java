@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise2 {
+public class CubeEg {
 public static void main(String args[]) {
 	System.out.println("Number is :");
 	Scanner sc = new Scanner(System.in);
